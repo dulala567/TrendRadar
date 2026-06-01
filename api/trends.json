@@ -1,29 +1,40 @@
 {
-  "generated_at": "2026-06-01T14:07:50.387255+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-06-01T15:39:39.773417+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI时代管理变革 AI 人工智能 大模型 智能体 Agent 数字化转型 自动化 降本增效 组织效率 流程重构 人机协作 AI替代 AI办公 岗位重塑",
-      "match_count": 16,
+      "match_count": 23,
       "titles": [
-        {
-          "title": "黄仁勋：Vera Rubin全面量产，AI Agent是重点方向，挑战英特尔剑指下一代AI PC入口",
-          "url": "https://wallstreetcn.com/articles/3773548",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
         {
           "title": "人民日报钟声：推动人工智能成为中美合作的新疆域",
           "url": "https://www.cls.cn/detail/2386515",
           "source": "财联社热门",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时07分 ~ 15时39分]"
+        },
+        {
+          "title": "AI坑健身小白买20kg哑铃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
+          "title": "黄仁勋：Vera Rubin全面量产，AI Agent是重点方向，挑战英特尔剑指下一代AI PC入口",
+          "url": "https://wallstreetcn.com/articles/3773548",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -41,6 +52,29 @@
           "time_info": "14时07分"
         },
         {
+          "title": "AI热情主导市场，日韩股市齐创新高，韩股一度触发熔断，三星电子大涨10%",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时07分 ~ 15时39分]"
+        },
+        {
+          "title": "媒体：莫让AI加剧医患“沟通危机”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33276405",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时07分 ~ 15时39分]"
+        },
+        {
           "title": "SpaceX、OpenAI上市在即，亚洲投资者“卖芯片，买瓶颈”，押注“新一轮资本开支”",
           "url": "https://wallstreetcn.com/articles/3773518",
           "source": "华尔街见闻",
@@ -52,15 +86,26 @@
           "time_info": "14时07分"
         },
         {
-          "title": "媒体：莫让AI加剧医患“沟通危机”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33276405",
-          "source": "澎湃新闻",
+          "title": "联想、戴尔、微软等厂商将在今年秋季推出首批搭载英伟达RTX Spark的AI PC",
+          "url": "https://wallstreetcn.com/livenews/3112241",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时07分"
+          "time_info": "15时39分"
+        },
+        {
+          "title": "A股收盘：创业板指缩量跌超2%，煤炭、AI应用方向逆势大涨",
+          "url": "https://wallstreetcn.com/livenews/3112240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "英伟达(NVDA.O)：台积电(TSM.N)使用英伟达CUDA-X库和AI模型加速英伟达GPU上的工作负载。",
@@ -68,17 +113,6 @@
           "source": "金十数据",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
-          "title": "AI热情主导市场，日韩股市齐创新高，韩股一度触发熔断，三星电子大涨10%",
-          "url": "https://wallstreetcn.com/articles/3773537",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -96,6 +130,17 @@
           "time_info": "14时07分"
         },
         {
+          "title": "黄仁勋即将发表主题演讲 AIPC新时代要来了？",
+          "url": "https://www.cls.cn/detail/2386623",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "日经首破67000点，软银击败丰田登顶：AI正在重写日本股市",
           "url": "https://flash.jin10.com/detail/20260601132322498800",
           "source": "金十数据",
@@ -107,6 +152,17 @@
           "time_info": "14时07分"
         },
         {
+          "title": "牧原股份携手阿里云共建养猪大模型",
+          "url": "https://flash.jin10.com/detail/20260601151518196800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：公司推出面向机器人AI的新一代模型。",
           "url": "https://wallstreetcn.com/livenews/3112179",
           "source": "华尔街见闻-快讯",
@@ -116,6 +172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "富士康和法国公司Bull将合作生产AI和云基础设施",
+          "url": "https://wallstreetcn.com/livenews/3112229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "英伟达推出面向Windows的DGX Station，为企业配备拥有万亿参数的人工智能超级计算机。",
@@ -173,6 +240,17 @@
           "time_info": "14时07分"
         },
         {
+          "title": "联想、戴尔、微软等厂商将在今年秋季推出首批搭载英伟达RTX Spark的AI PC",
+          "url": "https://flash.jin10.com/detail/20260601150523923800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "AIPC概念股集体大涨",
           "url": "https://s.weibo.com/weibo?q=%23AIPC%E6%A6%82%E5%BF%B5%E8%82%A1%E9%9B%86%E4%BD%93%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -197,8 +275,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
+          "appearance_count": 2,
+          "time_info": "[14时07分 ~ 15时39分]"
         },
         {
           "title": "英伟达(NVDA.O)高管：英伟达计划与美国、欧洲和韩国的人形机器人制造商合作，开展研究机器人项目。",
@@ -222,11 +300,29 @@
           "url": "https://www.zhihu.com/question/15658641996",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            18
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时07分 ~ 15时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中年职业第二曲线 35岁 40岁 45岁 中年危机 职业天花板 职业瓶颈 转型 职业转型 第二曲线 顾问 咨询 专家型 管理岗 专家岗 裁员 再就业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【首批公募基准调整今日落地：消费/医药主题基金无需集中减仓科技股】中国证监会发布的《公开募集证券投资基金业绩比较基准指引》自3月1日起正式施行后，自6月1日起首批调整落地。根据指引，调整后的基准将更加匹配基金产品定位和实际持仓风格，而不是调了基准导致调仓。截至2026年6月1日，新规施行已近3个月，消费/医药主题基金并无需集中减仓科技股，通过“去主题化转型+平滑调仓”，对科技股实质影响有限，可在不集中减持科技股的前提下完成合规。也因此，科技股核心驱动仍看产业趋势与业绩。(蓝鲸新闻)",
+          "url": "https://wallstreetcn.com/livenews/3112219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时07分"
+          "time_info": "15时39分"
         }
       ]
     },
@@ -242,8 +338,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时07分"
+          "appearance_count": 2,
+          "time_info": "[14时07分 ~ 15时39分]"
         }
       ]
     }
