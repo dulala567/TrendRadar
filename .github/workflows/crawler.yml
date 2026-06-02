@@ -2,8 +2,9 @@ name: Hot News Crawler
 
 on:
   schedule:
-    # 北京时间每天 09:00 运行。GitHub Actions 使用 UTC 时间，所以这里是 01:00 UTC。
-    - cron: "0 1 * * *"
+    # Beijing time 00:35 and 08:51 daily. GitHub Actions schedules use UTC.
+    - cron: "35 16 * * *"
+    - cron: "51 0 * * *"
   workflow_dispatch:
 
 permissions:
