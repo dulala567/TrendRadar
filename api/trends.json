@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T04:03:19.613824+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-04T13:29:49.392651+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI时代管理变革 AI 人工智能 大模型 智能体 Agent 数字化转型 自动化 降本增效 组织效率 流程重构 人机协作 AI替代 AI办公 岗位重塑",
-      "match_count": 10,
+      "match_count": 20,
       "titles": [
         {
           "title": "奥尔特曼将述其关于AI领域公私合作的愿景",
@@ -30,26 +30,117 @@
           "time_info": "04时03分"
         },
         {
+          "title": "黄仁勋概念股又+1：纳微半导体暴涨创新高 凭AI电源技术切入“达链”",
+          "url": "https://www.cls.cn/detail/2390246",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "猎鹰崛起AI先导片",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E5%B4%9B%E8%B5%B7AI%E5%85%88%E5%AF%BC%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "达里奥警告：AI热潮已显现典型泡沫特征 最终难逃破裂命运",
+          "url": "https://www.cls.cn/detail/2390108",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "AI脸泛滥成灾,建模师没活了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时03分"
+          "appearance_count": 2,
+          "time_info": "[04时03分 ~ 13时29分]"
         },
         {
           "title": "胡彦斌一个月开发出 App，AI 时代将给普通人带来哪些机会？",
           "url": "https://www.zhihu.com/question/2044389352550164119",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            16
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时03分 ~ 13时29分]"
+        },
+        {
+          "title": "白嫖结束!豆包AI开始收费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时03分 ~ 13时29分]"
+        },
+        {
+          "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773812",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时03分"
+          "time_info": "13时29分"
+        },
+        {
+          "title": "微信开放手机厂商智能体接入 AI手机迎来“最优解”？",
+          "url": "https://www.cls.cn/detail/2390370",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
+          "url": "https://www.zhihu.com/question/2045546609027408734",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "黄仁勋向全球富豪家族力荐AI：回报“疯狂可观”，还在质疑的人才是“疯子”！",
+          "url": "https://wallstreetcn.com/articles/3773784",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "孙正义重登亚洲首富，称 AI 才刚起步，体量有望达到互联网热潮 50 倍，怎么理解该判断？其首富位子能坐多久？",
@@ -96,15 +187,26 @@
           "time_info": "04时03分"
         },
         {
-          "title": "白嫖结束!豆包AI开始收费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
-          "source": "贴吧",
+          "title": "台积电CEO：台积电不会突然大幅提高价格。 正在尽最大努力确保台积电不会成为供应链的瓶颈。 AI的快速增长让许多供应商难以满足需求。",
+          "url": "https://wallstreetcn.com/livenews/3114205",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时03分"
+          "time_info": "13时29分"
+        },
+        {
+          "title": "新版“公有云大模型Token服务性能监测平台”即将上线",
+          "url": "https://wallstreetcn.com/livenews/3114197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
@@ -116,12 +218,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "英国监管机构给谷歌AI搜索“立新规”",
+          "url": "https://wallstreetcn.com/livenews/3114177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         }
       ]
     },
     {
       "keyword_group": "领导力升级 领导力 领导者 高管 高层 管理层 决策 战略 战略思维 影响力 组织信任 组织能力 组织变革 人才梯队 识人用人 带团队",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "官方通报小学为教师定制西装问题：决策程序失当，已对校长停职",
@@ -133,6 +246,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "G胖力挺黄油,Steam高层挨怼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354801&amp;topic_name=G%E8%83%96%E5%8A%9B%E6%8C%BA%E9%BB%84%E6%B2%B9%2CSteam%E9%AB%98%E5%B1%82%E6%8C%A8%E6%80%BC",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时03分 ~ 13时29分]"
+        },
+        {
+          "title": "上市物企内斗 大股东拟罢免年薪超千万元高管",
+          "url": "https://www.cls.cn/detail/2390175",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "橡树资本高管Christina Lee：私人信用行业现在面临压力测试。 一旦丧失（投资者的）信任，就再难赢回来。（彭博电视）",
@@ -157,17 +293,6 @@
           "time_info": "04时03分"
         },
         {
-          "title": "G胖力挺黄油,Steam高层挨怼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354801&amp;topic_name=G%E8%83%96%E5%8A%9B%E6%8C%BA%E9%BB%84%E6%B2%B9%2CSteam%E9%AB%98%E5%B1%82%E6%8C%A8%E6%80%BC",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时03分"
-        },
-        {
           "title": "【以军总参谋长称军队在黎巴嫩“没有停火可言”】当地时间3日，以色列国防军总参谋长扎米尔在视察海法海军基地时表示，以军在黎巴嫩“没有停火可言”，并称以军已准备好随时恢复针对伊朗的战斗。扎米尔称，以色列海军正成为以色列军队的“另一支远程战略力量”。他表示，自就任以来，他就指示要加强海军作为远程战略力量的建设，目前以军正在加速落实这一作战理念。针对伊朗问题，扎米尔补充说，以色列国防军的所有军种都已准备好，随时可以恢复针对伊朗的战斗。（央视）",
           "url": "https://wallstreetcn.com/livenews/3113969",
           "source": "华尔街见闻-快讯",
@@ -177,6 +302,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "印度左右逢源战略能走多远",
+          "url": "https://www.toutiao.com/trending/7647363036381974022/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "高层心理韧性 压力 焦虑 内耗 情绪稳定 孤独感 决策压力 责任 权力 边界感 精力管理 心理韧性 职业倦怠 长期主义 教练式领导 咨询赋能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://news.ifeng.com/c/8tffKr5raZ8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "专访因耳环被网暴的女村支书：我格局很大的，从不计较、从不内耗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33303813",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "男童被景区机器人踢中腹部痛苦倒地，这属于谁的责任？该如何规避类似问题发生？",
+          "url": "https://www.zhihu.com/question/2045531346148095497",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "韩国总统李在明：对部分选区因选票不足导致居民在地方选举中经历混乱表示遗憾。相关组织应确保此类事件不再发生，并要求追究责任。",
+          "url": "https://flash.jin10.com/detail/20260604130708027800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         }
       ]
     }
