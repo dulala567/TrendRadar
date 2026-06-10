@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T02:32:48.846524+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-10T13:08:33.890038+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI时代管理变革 AI 人工智能 大模型 智能体 Agent 数字化转型 自动化 降本增效 组织效率 流程重构 人机协作 AI替代 AI办公 岗位重塑",
-      "match_count": 6,
+      "match_count": 13,
       "titles": [
         {
           "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 13时08分]"
         },
         {
           "title": "谷歌(GOOG.O)Gemini：推出智能体风险监控功能。",
@@ -52,6 +52,17 @@
           "time_info": "02时32分"
         },
         {
+          "title": "用AI复原孔子与苏格拉底教育之辩",
+          "url": "https://www.douyin.com/hot/2528746",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
           "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
           "url": "https://wallstreetcn.com/articles/3774156",
           "source": "华尔街见闻",
@@ -63,6 +74,17 @@
           "time_info": "02时32分"
         },
         {
+          "title": "上周五的暴跌只是预演？高盛、巴克莱齐发警告：AI交易拥挤度已爆表",
+          "url": "https://wallstreetcn.com/articles/3774243",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
           "title": "中东暂歇火、AI牛股继续嗨 高盛提醒动量交易风险 | 今夜看点",
           "url": "https://www.cls.cn/detail/2395176",
           "source": "财联社热门",
@@ -72,6 +94,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "金刚石助力芯片突破散热瓶颈 AI算力进一步打开应用空间",
+          "url": "https://www.cls.cn/detail/2395511",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "夏奇拉邀请你来跳daida",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3daida",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "Siri AI将如何改变苹果",
+          "url": "https://search.bilibili.com/all?keyword=Siri%20AI%E5%B0%86%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E8%8B%B9%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "九章云极给员工发千亿 Token，是算力过剩的凡尔赛，还是 AI 企业人才争夺战的新玩法?",
+          "url": "https://www.zhihu.com/question/2047653387265745185",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "AI入口重燃战火？多家互联网企业官宣接入微信AI生态，能带来什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33343767",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         }
       ]
     },
