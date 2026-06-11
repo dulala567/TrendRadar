@@ -1,189 +1,171 @@
 {
-  "generated_at": "2026-06-11T13:17:02.172068+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2026-06-12T03:20:28.372270+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI时代管理变革 AI 人工智能 大模型 智能体 Agent 数字化转型 自动化 降本增效 组织效率 流程重构 人机协作 AI替代 AI办公 岗位重塑",
-      "match_count": 16,
+      "match_count": 8,
       "titles": [
         {
-          "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33350280",
-          "source": "澎湃新闻",
+          "title": "一份研报引爆AI硬件“惊魂时刻”，CPO和800VDC故事要改写？",
+          "url": "https://www.cls.cn/detail/2397553",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 13时17分]"
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
+          "url": "https://wallstreetcn.com/articles/3774400",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
+          "url": "https://www.cls.cn/detail/2397230",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
+          "url": "https://wallstreetcn.com/articles/3774376",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "AI短片效果看到起鸡皮疙瘩了",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E7%89%87%E6%95%88%E6%9E%9C%E7%9C%8B%E5%88%B0%E8%B5%B7%E9%B8%A1%E7%9A%AE%E7%96%99%E7%98%A9%E4%BA%86&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "AI冲击就业前景引发广泛讨论，专家热议“谁将真正受益于人机混合劳动力时代”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352580",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
         },
         {
           "title": "抖音AI创作大赛来了",
           "url": "https://www.douyin.com/hot/2529851",
           "source": "抖音",
           "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "超模女球迷爆火后出镜 自证不是AI",
+          "url": "https://www.baidu.com/s?wd=%E8%B6%85%E6%A8%A1%E5%A5%B3%E7%90%83%E8%BF%B7%E7%88%86%E7%81%AB%E5%90%8E%E5%87%BA%E9%95%9C+%E8%87%AA%E8%AF%81%E4%B8%8D%E6%98%AFAI",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "领导力升级 领导力 领导者 高管 高层 管理层 决策 战略 战略思维 影响力 组织信任 组织能力 组织变革 人才梯队 识人用人 带团队",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "中国取消与欧盟高层会晤？外交部回应",
+          "url": "https://news.ifeng.com/c/8ts40U2gCRl",
+          "source": "凤凰网",
+          "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
+          "appearance_count": 1,
+          "time_info": "03时20分"
         },
         {
-          "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
-          "url": "https://www.cls.cn/detail/2396287",
+          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "独家|能源巨头战略延伸？宁德时代首次投资核聚变企业 为何“花落”贝塔聚变",
+          "url": "https://www.cls.cn/detail/2397280",
           "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "凯雷集团CFO：我们需要招聘初级员工，人工智能无法完成所有工作。",
-          "url": "https://flash.jin10.com/detail/20260611030125378800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
-          "url": "https://www.cls.cn/detail/2396017",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "凯雷集团CFO：人工智能将显著影响未来的投资过程，但我不会说目前已经达到这一阶段。",
-          "url": "https://flash.jin10.com/detail/20260611030121066800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "于娜看到已故老公AI形象崩溃大哭",
-          "url": "https://www.toutiao.com/trending/7649760127175904777/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 13时17分]"
-        },
-        {
-          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
-          "url": "https://www.cls.cn/detail/2396831",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
-        },
-        {
-          "title": "AI大神做漫剧真有一套",
-          "url": "https://www.douyin.com/hot/2530023",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
-        },
-        {
-          "title": "AI泡沫要破裂了吗",
-          "url": "https://www.toutiao.com/trending/7649712841921924614/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
-        },
-        {
-          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
-          "url": "https://wallstreetcn.com/articles/3774282",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "Anthropic的CEO：政府应当有权封杀、阻断高风险新AI模型的部署",
-          "url": "https://wallstreetcn.com/livenews/3117664",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "03时20分"
         },
         {
-          "title": "于娜看到已故丈夫AI形象崩溃大哭",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%A8%9C%E7%9C%8B%E5%88%B0%E5%B7%B2%E6%95%85%E4%B8%88%E5%A4%ABAI%E5%BD%A2%E8%B1%A1%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD",
-          "source": "百度热搜",
+          "title": "《鬼吹灯》是开山之作，为什么盗笔一直很火，而鬼吹灯影响力却没有盗笔那么大了？",
+          "url": "https://www.zhihu.com/question/294650088",
+          "source": "知乎",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "03时20分"
         },
         {
-          "title": "Anthropic首席执行官阿莫代伊：政府应当有权叫停新人工智能模型的发布。",
-          "url": "https://flash.jin10.com/detail/20260611023504794800",
-          "source": "金十数据",
+          "title": "Tether核心高管离职，重返其创立的私募股权公司",
+          "url": "https://wallstreetcn.com/livenews/3118351",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "03时20分"
         },
         {
-          "title": "Anthropic首席执行官阿莫代伊呼吁实施更严格的人工智能安全监管。",
-          "url": "https://flash.jin10.com/detail/20260611023440103800",
-          "source": "金十数据",
+          "title": "中方回应是否取消与欧盟的高层会晤",
+          "url": "https://www.toutiao.com/trending/7650009710409826358/",
+          "source": "今日头条",
           "ranks": [
-            16
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "夏奇拉邀请你来跳Dai Dai",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3Dai%20Dai",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "03时20分"
         }
       ]
     },
@@ -192,99 +174,37 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "SpaceX等超级IPO排队来袭 华尔街警告加密货币市场压力加剧",
-          "url": "https://www.cls.cn/detail/2396534",
-          "source": "财联社热门",
+          "title": "世界杯迎来了最不吃压力的中国裁判",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%8E%E6%9D%A5%E4%BA%86%E6%9C%80%E4%B8%8D%E5%90%83%E5%8E%8B%E5%8A%9B%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%A3%81%E5%88%A4",
+          "source": "百度热搜",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
-        },
-        {
-          "title": "网友调侃部分大学行政老师，称其以最小权力最大程度为难人，为什么会有这种现象？你有过被刁难的经历吗？",
-          "url": "https://www.zhihu.com/question/2047355145202000209",
-          "source": "知乎",
-          "ranks": [
-            7
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "03时20分"
         },
         {
-          "title": "伊朗总统：伊朗将坚定不移抵御任何压力和威胁",
-          "url": "https://wallstreetcn.com/livenews/3117646",
+          "title": "视频丨王楚钦回应担任国乒男队队长：坦承压力，也决心向前",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33355787",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "英国首相写信回复原国防大臣：不负责任的（国防）预算借款将让英国面临风险。",
+          "url": "https://wallstreetcn.com/livenews/3118339",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "领导力升级 领导力 领导者 高管 高层 管理层 决策 战略 战略思维 影响力 组织信任 组织能力 组织变革 人才梯队 识人用人 带团队",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "市场消息：一架美国B-52战略轰炸机已降落在巴林的伊萨空军基地。",
-          "url": "https://flash.jin10.com/detail/20260611030100534800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "管理者困境 中层 中层管理 管理者 向上管理 向下管理 绩效 绩效面谈 授权 团队执行力 团队内耗 跨部门 汇报 下属 核心员工 组织问题",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
-          "url": "https://wallstreetcn.com/livenews/3117653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中年职业第二曲线 35岁 40岁 45岁 中年危机 职业天花板 职业瓶颈 转型 职业转型 第二曲线 顾问 咨询 专家型 管理岗 专家岗 裁员 再就业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "阿波罗全球管理示警：律所和咨询公司等专业服务行业将面临AI颠覆",
-          "url": "https://wallstreetcn.com/livenews/3117649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "03时20分"
         }
       ]
     }
