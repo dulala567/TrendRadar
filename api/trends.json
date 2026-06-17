@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-17T03:57:05.139981+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-06-17T13:33:30.079045+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI时代管理变革 AI 人工智能 大模型 智能体 Agent 数字化转型 自动化 降本增效 组织效率 流程重构 人机协作 AI替代 AI办公 岗位重塑",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
+          "url": "https://wallstreetcn.com/articles/3774806",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时56分 ~ 13时33分]"
+        },
         {
           "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
           "url": "https://www.cls.cn/detail/2401113",
@@ -30,17 +41,6 @@
           "time_info": "[03时56分 ~ 03时57分]"
         },
         {
-          "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
-          "url": "https://wallstreetcn.com/articles/3774806",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时56分 ~ 03时57分]"
-        },
-        {
           "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
           "url": "https://www.cls.cn/detail/2401236",
           "source": "财联社热门",
@@ -50,6 +50,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时56分 ~ 03时57分]"
+        },
+        {
+          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2050261467174101567",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
+          "title": "韩国央行：人工智能驱动的奖金激增可能会加剧更广泛的通胀。",
+          "url": "https://flash.jin10.com/detail/20260617131005092800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
+          "title": "中国正加紧筹建世界人工智能合作组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         },
         {
           "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
@@ -113,9 +146,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
+          "url": "https://www.zhihu.com/question/2050271442697188542",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         },
         {
           "title": "美国城堡证券：宽松的金融条件、持续的供应链中断、劳动力市场的加速复苏以及人工智能投资的激增正相互叠加，持续维持着通胀压力。",
@@ -124,7 +168,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
         },
@@ -135,7 +179,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
         },
@@ -146,15 +190,87 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "中国正加紧筹建世界人工智能合作组织",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%8A%A0%E7%B4%A7%E7%AD%B9%E5%BB%BA%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
+          "title": "吴清：依法从严打击利用人工智能非法荐股等乱象",
+          "url": "https://wallstreetcn.com/livenews/3120716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "高层心理韧性 压力 焦虑 内耗 情绪稳定 孤独感 决策压力 责任 权力 边界感 精力管理 心理韧性 职业倦怠 长期主义 教练式领导 咨询赋能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "江苏灌南两名环卫工人清晨被撞身亡，警方通报肇事司机涉嫌醉驾，已被刑拘，其将承担哪些法律责任？",
+          "url": "https://www.zhihu.com/question/2050188608708121957",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 03时57分]"
+        },
+        {
+          "title": "压力给到了C罗",
+          "url": "https://www.baidu.com/s?wd=%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0%E4%BA%86C%E7%BD%97",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
+          "title": "压力给到C罗",
+          "url": "https://s.weibo.com/weibo?q=%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0C%E7%BD%97&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
+          "title": "韩国央行：通胀将在相当长一段时间内保持高位。 预计下半年CPI为3%，核心CPI在2%中高位区间。 受工资增长影响，通胀压力将持续至明年。",
+          "url": "https://wallstreetcn.com/livenews/3120752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         }
       ]
     },
     {
       "keyword_group": "领导力升级 领导力 领导者 高管 高层 管理层 决策 战略 战略思维 影响力 组织信任 组织能力 组织变革 人才梯队 识人用人 带团队",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "郑栅洁：国家发展改革委将深入贯彻党中央和国务院决策部署，加强“六张网”规划建设",
@@ -166,6 +282,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时56分 ~ 03时57分]"
+        },
+        {
+          "title": "山姆被约谈后更换董事长，由刘鹏接任，如何解读「阿里系」高管接掌山姆的深层逻辑？将对品牌产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2050339845675771147",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         },
         {
           "title": "世界黄金协会调查：全球央行增持意愿创纪录 黄金战略储备地位进一步提升",
@@ -181,19 +308,19 @@
       ]
     },
     {
-      "keyword_group": "高层心理韧性 压力 焦虑 内耗 情绪稳定 孤独感 决策压力 责任 权力 边界感 精力管理 心理韧性 职业倦怠 长期主义 教练式领导 咨询赋能",
+      "keyword_group": "中年职业第二曲线 35岁 40岁 45岁 中年危机 职业天花板 职业瓶颈 转型 职业转型 第二曲线 顾问 咨询 专家型 管理岗 专家岗 裁员 再就业",
       "match_count": 1,
       "titles": [
         {
-          "title": "江苏灌南两名环卫工人清晨被撞身亡，警方通报肇事司机涉嫌醉驾，已被刑拘，其将承担哪些法律责任？",
-          "url": "https://www.zhihu.com/question/2050188608708121957",
-          "source": "知乎",
+          "title": "国家禁毒办：新发现35岁以下青少年吸毒人数同比下降超四成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396453",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时56分 ~ 03时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时33分"
         }
       ]
     }
