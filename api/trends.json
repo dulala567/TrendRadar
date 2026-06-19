@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T02:48:30.772362+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-19T14:02:40.758617+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI时代管理变革 AI 人工智能 大模型 智能体 Agent 数字化转型 自动化 降本增效 组织效率 流程重构 人机协作 AI替代 AI办公 岗位重塑",
-      "match_count": 6,
+      "match_count": 14,
       "titles": [
         {
           "title": "让AI走进千家万户",
@@ -19,6 +19,51 @@
           "time_info": "02时48分"
         },
         {
+          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
+          "url": "https://wallstreetcn.com/articles/3775029",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
+          "url": "https://wallstreetcn.com/articles/3774993",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
+          "url": "https://www.zhihu.com/question/2050289332632790558",
+          "source": "知乎",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 14时02分]"
+        },
+        {
+          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
+          "url": "https://wallstreetcn.com/articles/3775010",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
           "url": "https://www.cls.cn/detail/2403645",
           "source": "财联社热门",
@@ -28,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
+          "url": "https://wallstreetcn.com/articles/3775064",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "美国五角大楼披露，马斯克旗下的Grok AI被用于协调针对伊朗全境超过2000枚弹药的部署行动。",
@@ -41,15 +97,37 @@
           "time_info": "02时48分"
         },
         {
-          "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
-          "url": "https://www.zhihu.com/question/2050289332632790558",
-          "source": "知乎",
+          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
+          "url": "https://wallstreetcn.com/articles/3775011",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时48分"
+          "time_info": "14时02分"
+        },
+        {
+          "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
+          "url": "https://www.cls.cn/detail/2404332",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "5月证券APP月活1.82亿，月活增速谁最强？新一轮卡位在AI Skill",
@@ -72,12 +150,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        },
+        {
+          "title": "知名作家承认新书AI写作比重占一半",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E4%BD%9C%E5%AE%B6%E6%89%BF%E8%AE%A4%E6%96%B0%E4%B9%A6AI%E5%86%99%E4%BD%9C%E6%AF%94%E9%87%8D%E5%8D%A0%E4%B8%80%E5%8D%8A",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         }
       ]
     },
     {
       "keyword_group": "领导力升级 领导力 领导者 高管 高层 管理层 决策 战略 战略思维 影响力 组织信任 组织能力 组织变革 人才梯队 识人用人 带团队",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美联储继续按兵不动但暗示鹰派倾向，强调通胀承诺，半数决策者料年内加息",
@@ -91,6 +180,17 @@
           "time_info": "02时48分"
         },
         {
+          "title": "白宫向美国会高层通报美伊谅解备忘录细节",
+          "url": "https://wallstreetcn.com/livenews/3121983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "据美国财经媒体Semafor记者：美国参议院共和党高层对伊朗协议感到不满，与伊朗达成最终协议的可能性不大。",
           "url": "https://flash.jin10.com/detail/20260619011041918800",
           "source": "金十数据",
@@ -100,6 +200,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "高层心理韧性 压力 焦虑 内耗 情绪稳定 孤独感 决策压力 责任 权力 边界感 精力管理 心理韧性 职业倦怠 长期主义 教练式领导 咨询赋能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "巴西宝妈来华带娃没压力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355278&amp;topic_name=%E5%B7%B4%E8%A5%BF%E5%AE%9D%E5%A6%88%E6%9D%A5%E5%8D%8E%E5%B8%A6%E5%A8%83%E6%B2%A1%E5%8E%8B%E5%8A%9B",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "澳新银行：预计布伦特原油第二季度末价格为80美元/桶，并预计油价仍将面临下行压力。",
+          "url": "https://flash.jin10.com/detail/20260619134544910800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         }
       ]
     }
