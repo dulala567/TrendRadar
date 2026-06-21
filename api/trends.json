@@ -1,205 +1,116 @@
 {
-  "generated_at": "2026-06-21T13:32:08.683010+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-06-22T02:07:51.056342+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI时代管理变革 AI 人工智能 大模型 智能体 Agent 数字化转型 自动化 降本增效 组织效率 流程重构 人机协作 AI替代 AI办公 岗位重塑",
-      "match_count": 15,
+      "match_count": 7,
       "titles": [
         {
-          "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
-          "url": "https://www.cls.cn/detail/2404332",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 13时32分]"
-        },
-        {
-          "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
-          "url": "https://wallstreetcn.com/articles/3775106",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
-        },
-        {
-          "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime 完整飞轮”",
-          "url": "https://wallstreetcn.com/articles/3775114",
+          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
+          "url": "https://wallstreetcn.com/articles/3775117",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 1,
+          "time_info": "02时07分"
         },
         {
-          "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
-          "url": "https://wallstreetcn.com/articles/3775113",
-          "source": "华尔街见闻",
+          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            1
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 13时32分]"
+          "appearance_count": 1,
+          "time_info": "02时07分"
         },
         {
           "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
           "url": "https://wallstreetcn.com/articles/3775121",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 1,
+          "time_info": "02时07分"
         },
         {
-          "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
-          "url": "https://wallstreetcn.com/articles/3775111",
+          "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
+          "url": "https://wallstreetcn.com/articles/3775129",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
+          "appearance_count": 1,
+          "time_info": "02时07分"
         },
         {
-          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
-          "url": "https://wallstreetcn.com/articles/3775117",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
-          "url": "https://wallstreetcn.com/articles/3775114",
+          "title": "GPT-5.6或将下周问世：从“模型”迈向“可执行Agent”，定价或仅为竞品1/3",
+          "url": "https://wallstreetcn.com/articles/3775122",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
+          "appearance_count": 1,
+          "time_info": "02时07分"
         },
         {
-          "title": "女子用AI写3000字股市谣言被罚",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8AI%E5%86%993000%E5%AD%97%E8%82%A1%E5%B8%82%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BD%9A",
-          "source": "百度热搜",
+          "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
+          "url": "https://www.cls.cn/detail/2404757",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 1,
+          "time_info": "02时07分"
         },
         {
-          "title": "如果给人文社科专业增加一门 AI 相关课程，你觉得最应该开哪门？",
-          "url": "https://www.zhihu.com/question/2045843902720995741",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
-        },
-        {
-          "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33415864",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
-        },
-        {
-          "title": "AI短剧“买脸” 每张脸500元一年",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E2%80%9C%E4%B9%B0%E8%84%B8%E2%80%9D+%E6%AF%8F%E5%BC%A0%E8%84%B8500%E5%85%83%E4%B8%80%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
-        },
-        {
-          "title": "谐音歌词版WAIYA",
-          "url": "https://www.douyin.com/hot/2541878",
+          "title": "父亲节用AI表达爱",
+          "url": "https://www.douyin.com/hot/2542302",
           "source": "抖音",
           "ranks": [
-            29
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
-        },
-        {
-          "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",
-          "url": "https://flash.jin10.com/detail/20260621120212050800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "以色列侨民事务部长Amichai Chikli：叙利亚和土耳其对以色列的威胁远比伊朗更令人担忧。",
-          "url": "https://flash.jin10.com/detail/20260621105013148800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
+          "time_info": "02时07分"
         }
       ]
     },
     {
-      "keyword_group": "领导力升级 领导力 领导者 高管 高层 管理层 决策 战略 战略思维 影响力 组织信任 组织能力 组织变革 人才梯队 识人用人 带团队",
+      "keyword_group": "中年职业第二曲线 35岁 40岁 45岁 中年危机 职业天花板 职业瓶颈 转型 职业转型 第二曲线 顾问 咨询 专家型 管理岗 专家岗 裁员 再就业",
       "match_count": 2,
       "titles": [
         {
-          "title": "学者：伊朗效仿特朗普采取“周末战略”",
-          "url": "https://flash.jin10.com/detail/20260621012943584800",
+          "title": "学者称中东冲突将推动能源转型与供应多元化",
+          "url": "https://flash.jin10.com/detail/20260622012509323800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时56分"
+          "time_info": "02时07分"
         },
         {
-          "title": "以色列侨民事务部长Amichai Chikli：以色列“迟早”会与叙利亚开战，叙利亚与土耳其之间的联盟对我们构成“战略挑战”。",
-          "url": "https://flash.jin10.com/detail/20260621104914004800",
-          "source": "金十数据",
+          "title": "40岁副总裁因交通事故去世",
+          "url": "https://www.toutiao.com/trending/7653764040170520614/",
+          "source": "今日头条",
           "ranks": [
-            19
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时32分"
+          "time_info": "02时07分"
         }
       ]
     },
@@ -208,44 +119,43 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "马宁称给C罗黄牌没有任何压力",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%AE%81%E7%A7%B0%E7%BB%99C%E7%BD%97%E9%BB%84%E7%89%8C%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95%E5%8E%8B%E5%8A%9B",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
           "title": "巴西宝妈来华带娃没压力",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355278&amp;topic_name=%E5%B7%B4%E8%A5%BF%E5%AE%9D%E5%A6%88%E6%9D%A5%E5%8D%8E%E5%B8%A6%E5%A8%83%E6%B2%A1%E5%8E%8B%E5%8A%9B",
           "source": "贴吧",
           "ranks": [
-            19,
-            22
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 13时32分]"
-        },
-        {
-          "title": "李小冉赛前压力大到落泪",
-          "url": "https://www.toutiao.com/trending/7653082052270735414/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
+          "appearance_count": 1,
+          "time_info": "02时07分"
         }
       ]
     },
     {
-      "keyword_group": "中年职业第二曲线 35岁 40岁 45岁 中年危机 职业天花板 职业瓶颈 转型 职业转型 第二曲线 顾问 咨询 专家型 管理岗 专家岗 裁员 再就业",
+      "keyword_group": "领导力升级 领导力 领导者 高管 高层 管理层 决策 战略 战略思维 影响力 组织信任 组织能力 组织变革 人才梯队 识人用人 带团队",
       "match_count": 1,
       "titles": [
         {
-          "title": "据伊朗迈赫尔通讯社：伊朗最高领袖顾问表示，如果协议仍停留在纸面上，中东地区的能源流动将继续处于中断状态。",
-          "url": "https://flash.jin10.com/detail/20260621000109375800",
-          "source": "金十数据",
+          "title": "美印太司令部恢复原名“太平洋司令部”，改名背后传递什么战略信号？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33422848",
+          "source": "澎湃新闻",
           "ranks": [
-            25
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时56分"
+          "time_info": "02时07分"
         }
       ]
     }
