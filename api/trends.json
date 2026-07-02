@@ -1,101 +1,77 @@
 {
-  "generated_at": "2026-07-02T12:48:28.506861+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-07-03T02:15:47.420754+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI时代管理变革 AI 人工智能 大模型 智能体 Agent 数字化转型 自动化 降本增效 组织效率 流程重构 人机协作 AI替代 AI办公 岗位重塑",
-      "match_count": 23,
+      "match_count": 12,
       "titles": [
         {
-          "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
-          "url": "https://wallstreetcn.com/articles/3775982",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 12时48分]"
-        },
-        {
-          "title": "报道：SpaceX开发出类似手机的AI原型机",
-          "url": "https://wallstreetcn.com/livenews/3127573",
-          "source": "华尔街见闻-快讯",
+          "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
+          "url": "https://www.cls.cn/detail/2415670",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "02时15分"
         },
         {
-          "title": "SpaceX披露手机形态AI设备原型 采用高通芯片并接入xAI",
-          "url": "https://flash.jin10.com/detail/20260702020830991800",
-          "source": "金十数据",
+          "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2415745",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "02时15分"
         },
         {
-          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
-          "url": "https://wallstreetcn.com/articles/3775797",
+          "title": "微软正合并其企业与消费者端AI聊天机器人。 该公司正将多个Copilot AI聊天机器人整合到一个APP。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3128176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
+          "url": "https://wallstreetcn.com/articles/3776029",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "02时15分"
         },
         {
-          "title": "据华尔街日报：消息人士透露，该原型机将运行在集成SpaceX(SPCX.O)旗下xAI人工智能技术的专有操作系统上。该原型机设计时尚，比iPhone更纤薄。该设备将采用高通(QCOM.O)骁龙芯片组。",
-          "url": "https://flash.jin10.com/detail/20260702020102144800",
-          "source": "金十数据",
+          "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
+          "url": "https://www.cls.cn/detail/2415416",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "02时15分"
         },
         {
-          "title": "“大空头”伯里加码做空AI，称韩国芯片投资为“终结的开端”",
-          "url": "https://flash.jin10.com/detail/20260702123457472800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "如何评价AI巨头之间的混战",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 12时48分]"
-        },
-        {
-          "title": "据华尔街日报：消息人士透露，SpaceX(SPCX.O)已开发一款类似手机的设备原型，旨在改变人们与人工智能的交互方式。SpaceX在IPO前夕向部分投资者展示了该原型机。",
-          "url": "https://flash.jin10.com/detail/20260702020034996800",
-          "source": "金十数据",
+          "title": "储殷：AI正在制造新型穷人",
+          "url": "https://www.toutiao.com/trending/7657880852310789641/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "02时15分"
         },
         {
           "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
@@ -104,202 +80,153 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时48分"
+          "time_info": "02时15分"
         },
         {
-          "title": "盘前涨逾5%！报道：Meta筹划进军云计算市场，以出售富余的AI算力资源",
-          "url": "https://wallstreetcn.com/articles/3775980",
-          "source": "华尔街见闻",
+          "title": "AI演员已经能演出情绪变化了",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E8%83%BD%E6%BC%94%E5%87%BA%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "02时15分"
         },
         {
-          "title": "Meta消息砸盘！AI基础设施股重挫，盘中闪迪、CoreWeave跌超10%，市场开始担心算力过剩？",
-          "url": "https://wallstreetcn.com/articles/3775997",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "SpaceX“造AI手机”传闻带飞高通 马斯克火速否认浇灭市场热情",
-          "url": "https://www.cls.cn/detail/2414781",
+          "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
+          "url": "https://www.cls.cn/detail/2415407",
           "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "报道：OpenAI提议让美国政府持有公司5%股份",
-          "url": "https://wallstreetcn.com/livenews/3127802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
-          "url": "https://wallstreetcn.com/articles/3775976",
-          "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "联合国专家组警告：AI发展速度已超越科学认知和监管能力 或带来灾难性风险",
-          "url": "https://www.cls.cn/detail/2414744",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "Meta据悉布局AI云业务 拟对外出售算力 挑战亚马逊、微软和谷歌",
-          "url": "https://www.cls.cn/detail/2414683",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "英伟达通过收入分成方式与AI云公司合作",
-          "url": "https://wallstreetcn.com/livenews/3127793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "人工智能冲击婚纱影楼",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%86%B2%E5%87%BB%E5%A9%9A%E7%BA%B1%E5%BD%B1%E6%A5%BC&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "02时15分"
         },
         {
-          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
-          "url": "https://www.zhihu.com/question/2055934590297150773",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "英伟达推出AI基础设施新合作模式 通过收入分成机制与AI云厂商推动算力建设",
-          "url": "https://flash.jin10.com/detail/20260702121851665800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "越来越多公司证明AI无法替代人工",
-          "url": "https://www.toutiao.com/trending/7657394487626416137/",
-          "source": "今日头条",
+          "title": "美国AI三大巨头争抢哲学家",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E4%B8%89%E5%A4%A7%E5%B7%A8%E5%A4%B4%E4%BA%89%E6%8A%A2%E5%93%B2%E5%AD%A6%E5%AE%B6",
+          "source": "百度热搜",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "02时15分"
         },
         {
-          "title": "据报OpenAI提出向特朗普政府提供5%的股权",
-          "url": "https://flash.jin10.com/detail/20260702121147449800",
+          "title": "随着AI矿产热潮吸引投资关注，刚果（金）计划建立首个证券交易所。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3128155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "微软动员6000名员工，助客户采用AI技术",
+          "url": "https://wallstreetcn.com/livenews/3128151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "高层心理韧性 压力 焦虑 内耗 情绪稳定 孤独感 决策压力 责任 权力 边界感 精力管理 心理韧性 职业倦怠 长期主义 教练式领导 咨询赋能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "英国首相候选人伯纳姆：我将全力承担责任，完整落实国防开支计划。",
+          "url": "https://flash.jin10.com/detail/20260703020319872800",
           "source": "金十数据",
           "ranks": [
-            21
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时48分"
+          "time_info": "02时15分"
         },
         {
-          "title": "越来越多公司证明AI无法替代人工",
-          "url": "https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%85%AC%E5%8F%B8%E8%AF%81%E6%98%8EAI%E6%97%A0%E6%B3%95%E6%9B%BF%E4%BB%A3%E4%BA%BA%E5%B7%A5",
-          "source": "百度热搜",
+          "title": "火药味十足,多兰给Bin上压力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355843&amp;topic_name=%E7%81%AB%E8%8D%AF%E5%91%B3%E5%8D%81%E8%B6%B3%2C%E5%A4%9A%E5%85%B0%E7%BB%99Bin%E4%B8%8A%E5%8E%8B%E5%8A%9B",
+          "source": "贴吧",
           "ranks": [
-            23
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时48分"
+          "time_info": "02时15分"
+        },
+        {
+          "title": "“月入7899元填写困难职工登记表”引关注，安徽省药监局：将严处责任人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33504584",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "宣传视频被指故意“擦边”，绿源电动车致歉：相关视频已下架，已处罚责任人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501662",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "加拿大不列颠哥伦比亚省省长：协议并不意味着不列颠哥伦比亚省必须支持阿尔伯塔省的管道提案，但不列颠哥伦比亚省承认其没有宪法权力否决管道。",
+          "url": "https://flash.jin10.com/detail/20260703014332322800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时15分"
         }
       ]
     },
     {
       "keyword_group": "领导力升级 领导力 领导者 高管 高层 管理层 决策 战略 战略思维 影响力 组织信任 组织能力 组织变革 人才梯队 识人用人 带团队",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "小红书遭前高管举报，被指存在 VIE 信披矛盾和用工漏洞等问题，会对其 IPO 产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2055605976686751890",
-          "source": "知乎",
+          "title": "Meta下场“卖算力”，是产能过剩信号还是巨头战略转身？",
+          "url": "https://www.cls.cn/detail/2415679",
+          "source": "财联社热门",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "Lazard高管George Bilicic：数据中心的建设将支持（能源行业的）高估值。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3127542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "02时15分"
         },
         {
-          "title": "Kirkland高管Andrew Calder：预计能源（并购）交易将加速。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3127541",
+          "title": "微软高管：微软可以帮助企业改进AI使用方式",
+          "url": "https://wallstreetcn.com/livenews/3128153",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "02时15分"
         }
       ]
     },
@@ -308,32 +235,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "曝微软将再裁 5000 人，一年累计裁员数逼近 2 万人，发生了什么？裁员数量激增释放了哪些信号？",
-          "url": "https://www.zhihu.com/question/2055639658021615404",
-          "source": "知乎",
+          "title": "骆歆转型?LPL女解说集体聊球",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355839&amp;topic_name=%E9%AA%86%E6%AD%86%E8%BD%AC%E5%9E%8B%3FLPL%E5%A5%B3%E8%A7%A3%E8%AF%B4%E9%9B%86%E4%BD%93%E8%81%8A%E7%90%83",
+          "source": "贴吧",
           "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "高层心理韧性 压力 焦虑 内耗 情绪稳定 孤独感 决策压力 责任 权力 边界感 精力管理 心理韧性 职业倦怠 长期主义 教练式领导 咨询赋能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上海一高校将追究《为什么导师喜欢娶自己的博士？》作者的责任，「底刊」论文的法律边界在哪里？",
-          "url": "https://www.zhihu.com/question/2055014552882901099",
-          "source": "知乎",
-          "ranks": [
-            1
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时26分"
+          "time_info": "02时15分"
         }
       ]
     }
