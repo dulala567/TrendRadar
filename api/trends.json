@@ -1,262 +1,143 @@
 {
-  "generated_at": "2026-07-09T12:39:51.881956+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-07-10T02:19:03.683251+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI时代管理变革 AI 人工智能 大模型 智能体 Agent 数字化转型 自动化 降本增效 组织效率 流程重构 人机协作 AI替代 AI办公 岗位重塑",
-      "match_count": 19,
+      "match_count": 12,
       "titles": [
         {
-          "title": "淡马锡CIO：人工智能硬件基础设施领域蕴藏着巨大机遇。",
-          "url": "https://flash.jin10.com/detail/20260709123350240800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "淡马锡CIO：加大对以实物资产为主的企业（如基础设施和大宗商品）的投资比重，这类企业受人工智能影响的风险较小。",
-          "url": "https://flash.jin10.com/detail/20260709123334652800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "我国人工智能产业加速发展壮大",
-          "url": "https://www.douyin.com/hot/2563823",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "SpaceXAI与Cursor联合发布Grok AI模型，主打法律与金融任务",
-          "url": "https://wallstreetcn.com/livenews/3130843",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
+          "url": "https://wallstreetcn.com/articles/3776500",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 02时19分]"
         },
         {
-          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
-          "url": "https://wallstreetcn.com/articles/3776428",
+          "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
+          "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
           "ranks": [
-            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 02时19分]"
+        },
+        {
+          "title": "Meta Platforms(META.O)CEO：探索AI云业务具有合理性。",
+          "url": "https://flash.jin10.com/detail/20260710020637737800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "马斯克：承认此前低估Anthropic，称其目前无疑是AI行业领先者",
+          "url": "https://flash.jin10.com/detail/20260710020628223800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "马斯克点评Anthropic：该公司目前是AI领域的领跑者。",
+          "url": "https://wallstreetcn.com/livenews/3131501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
+          "url": "https://wallstreetcn.com/articles/3776526",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 02时19分]"
+        },
+        {
+          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
+          "url": "https://wallstreetcn.com/articles/3776515",
+          "source": "华尔街见闻",
+          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时02分 ~ 12时39分]"
+          "time_info": "[02时18分 ~ 02时19分]"
         },
         {
           "title": "日本高中生携AI爆破被捕",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
           "source": "贴吧",
           "ranks": [
-            15,
-            22
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时02分 ~ 12时39分]"
+          "time_info": "[02时18分 ~ 02时19分]"
         },
         {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 12时39分]"
-        },
-        {
-          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2420504",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
-          "url": "https://wallstreetcn.com/articles/3776500",
-          "source": "华尔街见闻",
+          "title": "富兰克林·邓普顿：AI基础设施看涨逻辑将延续至2027年",
+          "url": "https://wallstreetcn.com/livenews/3131498",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时39分"
+          "time_info": "02时19分"
         },
         {
-          "title": "美股近七成科技股跌入熊市区间！AI信仰面临大考：获利了结还是周期见顶？",
-          "url": "https://flash.jin10.com/detail/20260709122245851800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "OpenAI面向全球发布语音模型GPT-Live，有两个版本。",
-          "url": "https://wallstreetcn.com/livenews/3130838",
+          "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
+          "url": "https://wallstreetcn.com/livenews/3131490",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "首次！美联储将AI投资列为三大通胀主要风险之一",
-          "url": "https://www.cls.cn/detail/2421292",
-          "source": "财联社热门",
-          "ranks": [
-            10
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时39分"
+          "time_info": "02时19分"
         },
         {
-          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
-          "url": "https://www.zhihu.com/question/2058166406420460573",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "英伟达估值跌回AI热潮前 华尔街看多热情未减",
-          "url": "https://www.cls.cn/detail/2420934",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "看空AI就是踏空？私募又争起来了，没买过AI的有什么资格吹哨？",
-          "url": "https://www.cls.cn/detail/2420437",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "高盛：中国AI产业链具备被市场低估的独特竞争优势",
-          "url": "https://flash.jin10.com/detail/20260709120134613800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "英伟达市值不到两个月蒸发 1 万亿美元，估值回落至人工智能热潮掀起之前的水平，算力龙头为何遭抛售？",
-          "url": "https://www.zhihu.com/question/2058280043265143682",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-07-09）",
-          "url": "https://flash.jin10.com/detail/20260709120042443800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
-          "url": "https://flash.jin10.com/detail/20260709010430451800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中年职业第二曲线 35岁 40岁 45岁 中年危机 职业天花板 职业瓶颈 转型 职业转型 第二曲线 顾问 咨询 专家型 管理岗 专家岗 裁员 再就业",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "集邦咨询：预估第三季Server DRAM合约价将季增13%—18%",
-          "url": "https://wallstreetcn.com/livenews/3131089",
+          "title": "阿波罗350亿美元AI芯片信贷交易即将开始交易",
+          "url": "https://wallstreetcn.com/livenews/3131478",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时39分"
+          "time_info": "02时19分"
         },
         {
-          "title": "汇丰：LG电子转型步伐或正在加快，目标价大幅上调56%至28万韩元",
-          "url": "https://flash.jin10.com/detail/20260709122607275800",
+          "title": "OpenAI正式推出GPT-5.6系列模型",
+          "url": "https://flash.jin10.com/detail/20260710012017912800",
           "source": "金十数据",
           "ranks": [
-            6
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "集邦咨询：预估第三季Server DRAM合约价将季增13%—18%",
-          "url": "https://flash.jin10.com/detail/20260709122054913800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
+          "time_info": "02时19分"
         }
       ]
     },
@@ -265,54 +146,43 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "法拉利高管称中国车企像开发快消品，驾驶情感仍是明显短板，怎样看待他的言论？",
-          "url": "https://www.zhihu.com/question/2058204174265979113",
-          "source": "知乎",
+          "title": "中国潜射战略导弹让日本“破防”？评论员陈浩洋：日本还不配！",
+          "url": "https://news.ifeng.com/c/8ucW1XuaDdq",
+          "source": "凤凰网",
           "ranks": [
-            13
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 02时19分]"
+        },
+        {
+          "title": "欧洲央行管委Nagel：决策者谈论利率前景时需克制",
+          "url": "https://wallstreetcn.com/livenews/3131472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "伦敦发力，意图扩大在1400亿美元保险挂钩证券市场的影响力",
-          "url": "https://wallstreetcn.com/livenews/3130821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "02时19分"
         }
       ]
     },
     {
-      "keyword_group": "高层心理韧性 压力 焦虑 内耗 情绪稳定 孤独感 决策压力 责任 权力 边界感 精力管理 心理韧性 职业倦怠 长期主义 教练式领导 咨询赋能",
-      "match_count": 2,
+      "keyword_group": "管理者困境 中层 中层管理 管理者 向上管理 向下管理 绩效 绩效面谈 授权 团队执行力 团队内耗 跨部门 汇报 下属 核心员工 组织问题",
+      "match_count": 1,
       "titles": [
         {
-          "title": "顶着美国压力，携光刻机、芯片巨头，荷兰大臣此时访华有何意味？",
-          "url": "https://news.ifeng.com/c/8ubAla6m8JG",
-          "source": "凤凰网",
+          "title": "纽约联储公开市场账户经理佩尔利：已准备好执行任何联邦公开市场委员会授权的资产负债表调整。",
+          "url": "https://flash.jin10.com/detail/20260710013340306800",
+          "source": "金十数据",
           "ranks": [
-            6
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "资深策略师Yardeni警告美伊停火破裂恐推升通胀，加大美联储加息压力",
-          "url": "https://wallstreetcn.com/livenews/3130831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "02时19分"
         }
       ]
     }
