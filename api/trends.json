@@ -1,206 +1,116 @@
 {
-  "generated_at": "2026-07-13T12:22:51.391440+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-07-14T02:18:41.135892+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI时代管理变革 AI 人工智能 大模型 智能体 Agent 数字化转型 自动化 降本增效 组织效率 流程重构 人机协作 AI替代 AI办公 岗位重塑",
-      "match_count": 15,
+      "match_count": 8,
       "titles": [
         {
-          "title": "人口第一大国，被AI做空了",
-          "url": "https://wallstreetcn.com/articles/3776722",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 12时22分]"
-        },
-        {
-          "title": "本周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
-          "url": "https://wallstreetcn.com/articles/3776632",
+          "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
+          "url": "https://wallstreetcn.com/articles/3776754",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时22分"
+          "time_info": "02时18分"
         },
         {
-          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
-          "url": "https://www.cls.cn/detail/2423546",
-          "source": "财联社热门",
+          "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33574538",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
-          "url": "https://wallstreetcn.com/articles/3776632",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "什么是AI黑客松",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%80%E4%B9%88%E6%98%AFAI%E9%BB%91%E5%AE%A2%E6%9D%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
-          "url": "https://www.cls.cn/detail/2422869",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 12时22分]"
-        },
-        {
-          "title": "“存储双雄”又暴跌！韩国央行发声：AI驱动的芯片超级周期将持续",
-          "url": "https://www.cls.cn/detail/2424084",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "time_info": "02时18分"
         },
         {
           "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
           "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时22分"
+          "time_info": "02时18分"
+        },
+        {
+          "title": "解锁2026世界人工智能大会新亮点",
+          "url": "https://www.toutiao.com/trending/7661668281069223946/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
           "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
           "source": "澎湃新闻",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-07-13）",
-          "url": "https://flash.jin10.com/detail/20260713120043549800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "大模型安全测评基准共建行动正式启动",
-          "url": "https://flash.jin10.com/detail/20260713120037840800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "英力股份：AI服务器业务当前仍为前期储备阶段，无大额投入和落地订单，暂未安排客户批量送样及量产验证工作，暂无对外可披露的送样测试时间表。",
-          "url": "https://flash.jin10.com/detail/20260713115744128800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "AI是如何“杀死”印度IT行业的",
-          "url": "https://www.toutiao.com/trending/7661654432722980388/",
-          "source": "今日头条",
-          "ranks": [
-            27
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时34分"
+          "time_info": "02时18分"
         },
         {
-          "title": "连续七周增长 中国大模型周调用量是美国4倍以上",
-          "url": "https://flash.jin10.com/detail/20260713114743079800",
-          "source": "金十数据",
+          "title": "Meta持续加码AI基建 追加400亿美元投资其最大数据中心项目",
+          "url": "https://www.cls.cn/detail/2424821",
+          "source": "财联社热门",
           "ranks": [
-            27
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时22分"
+          "time_info": "02时18分"
+        },
+        {
+          "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
+          "url": "https://wallstreetcn.com/articles/3776779",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美联储理事沃勒：我们持续收到了更好、更强劲的就业报告 人工智能（AI）可能会影响金融状况。 如果人工智能泡沫破裂或出现回调，我们将看到金融状况发生相当大的变化。 看不出有任何理由会处于准备金稀缺的机制中。 我认为没有任何理由会处于准备金稀缺的机制中。 如果能找到方法让银行不需要那么多准备金，那么相应地缩减资产负债表就没有问题。 关于仅凭准备金需求能缩减多少资产负债表，存在很多争议。 工作组将思考我们可以多认真地考虑缩减资产负债表。 我很难看出当前规模的资产负债表正在造成什么问题。",
+          "url": "https://wallstreetcn.com/livenews/3133016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         }
       ]
     },
     {
-      "keyword_group": "高层心理韧性 压力 焦虑 内耗 情绪稳定 孤独感 决策压力 责任 权力 边界感 精力管理 心理韧性 职业倦怠 长期主义 教练式领导 咨询赋能",
-      "match_count": 2,
+      "keyword_group": "管理者困境 中层 中层管理 管理者 向上管理 向下管理 绩效 绩效面谈 授权 团队执行力 团队内耗 跨部门 汇报 下属 核心员工 组织问题",
+      "match_count": 1,
       "titles": [
         {
-          "title": "卡塔尔称将依法追究伊朗袭击行为的责任",
-          "url": "https://flash.jin10.com/detail/20260713000852861800",
+          "title": "法国总统马克龙：法国将授权扩大包括SCALP巡航导弹在内的多种武器装备生产。",
+          "url": "https://flash.jin10.com/detail/20260714015022258800",
           "source": "金十数据",
           "ranks": [
-            13
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "西部黄金：控股股东拟与新疆地矿投资（集团）有限责任公司整体合并",
-          "url": "https://wallstreetcn.com/livenews/3132403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
+          "time_info": "02时18分"
         }
       ]
     },
@@ -209,32 +119,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "与美合作、加速入盟 乌克兰宣布全面调整国家政治战略",
-          "url": "https://wallstreetcn.com/livenews/3132427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "中年职业第二曲线 35岁 40岁 45岁 中年危机 职业天花板 职业瓶颈 转型 职业转型 第二曲线 顾问 咨询 专家型 管理岗 专家岗 裁员 再就业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗最高领袖顾问：霍尔木兹海峡比“几十颗原子弹”更重要",
-          "url": "https://news.ifeng.com/c/8uhmdS5DUXq",
+          "title": "中日真有事，还需要动用潜射战略导弹吗？",
+          "url": "https://news.ifeng.com/c/8ujWBc7bA83",
           "source": "凤凰网",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时34分"
+          "time_info": "02时18分"
         }
       ]
     }
