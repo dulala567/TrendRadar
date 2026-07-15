@@ -1,289 +1,232 @@
 {
-  "generated_at": "2026-07-15T11:50:26.983297+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-07-16T01:49:23.982462+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI时代管理变革 AI 人工智能 大模型 智能体 Agent 数字化转型 自动化 降本增效 组织效率 流程重构 人机协作 AI替代 AI办公 岗位重塑",
-      "match_count": 15,
+      "match_count": 11,
       "titles": [
         {
-          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
+          "title": "5张图看懂中国人工智能进化之路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586048",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "国会山作证第二天，沃什称：AI造成的价格效应未必推高通胀",
+          "url": "https://wallstreetcn.com/livenews/3134541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "国行苹果AI完成备案",
+          "url": "https://www.douyin.com/hot/2572485",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33589310",
           "source": "澎湃新闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时42分"
+          "time_info": "01时49分"
         },
         {
-          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
-          "source": "澎湃新闻",
+          "title": "英伟达与Kawasaki Heavy Shipyard将得到人工智能（AI）技术的支持。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3134540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
+          "url": "https://www.cls.cn/detail/2427348",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时42分"
+          "time_info": "01时49分"
+        },
+        {
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "美联储理事库克：AI建设与供应冲击都在驱动通胀风险。",
+          "url": "https://wallstreetcn.com/livenews/3134533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "世界人工智能大会逛展攻略来了",
+          "url": "https://www.douyin.com/hot/2570881",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时49分"
         },
         {
           "title": "AI拿冠军,摄影比赛闹笑话",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
           "source": "贴吧",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
-          "title": "美商务部官员：芯片和AI监管措施即将出台",
-          "url": "https://flash.jin10.com/detail/20260715011025049800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
-          "url": "https://wallstreetcn.com/articles/3776903",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 11时50分]"
-        },
-        {
-          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 11时50分]"
-        },
-        {
-          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
-          "url": "https://www.zhihu.com/question/2060385485915263811",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "据CNBC：苹果(AAPL.O)正在与PrismML洽谈，旨在缩小人工智能模型以便在iPhone上运行。",
-          "url": "https://flash.jin10.com/detail/20260715010740944800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "AI生成环卫工照片获摄影比赛一等奖",
-          "url": "https://www.toutiao.com/trending/7662295509886697491/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
-          "url": "https://www.cls.cn/detail/2426403",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "苹果正与一家能将AI模型压缩至在iPhone上运行的初创公司洽谈",
-          "url": "https://wallstreetcn.com/livenews/3133806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "OpenAI拟进军消费硬件市场：首款无屏智能音箱曝光 未来目标瞄准“手机替代品”",
-          "url": "https://www.cls.cn/detail/2426550",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
-          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
-          "url": "https://www.zhihu.com/question/2059349642496710015",
-          "source": "知乎",
-          "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时42分"
+          "time_info": "01时49分"
         },
         {
-          "title": "AI短剧以假乱真了",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%E4%BA%86&t=31&band_rank=17&Refer=top",
-          "source": "微博",
+          "title": "美联储理事库克：有理由相信通胀将继续降温，但关税、中东冲突以及人工智能投资可能导致价格压力持续，仍存在相关风险。",
+          "url": "https://flash.jin10.com/detail/20260716005829801800",
+          "source": "金十数据",
           "ranks": [
-            17
+            16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
-          "title": "为什么目前 AI 的设备是用 Mac 为主，而不是熟知的 Windows？",
-          "url": "https://www.zhihu.com/question/2059660303915397288",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
+          "time_info": "01时49分"
         }
       ]
     },
     {
       "keyword_group": "领导力升级 领导力 领导者 高管 高层 管理层 决策 战略 战略思维 影响力 组织信任 组织能力 组织变革 人才梯队 识人用人 带团队",
-      "match_count": 6,
+      "match_count": 4,
       "titles": [
         {
-          "title": "韩国启动KSTP，承诺投入10万亿韩元支持战略技术",
-          "url": "https://flash.jin10.com/detail/20260715112032217800",
-          "source": "金十数据",
+          "title": "近300条提问“刷屏”，长鑫科技IPO路演热度高企，朱一明等高管详解增长潜力及全球布局",
+          "url": "https://www.cls.cn/detail/2427322",
+          "source": "财联社热门",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
-          "title": "经纬度：中国人工智能发展的战略定力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33574020",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时42分"
+          "time_info": "01时49分"
         },
         {
           "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
           "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
           "source": "澎湃新闻",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
-          "title": "摩根大通敦促员工慎用高价AI处理简单任务，企业高管开始忧心成本",
-          "url": "https://wallstreetcn.com/livenews/3133798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时42分"
+          "time_info": "01时49分"
         },
         {
-          "title": "蔚来现身长鑫科技IPO战略投资名单",
-          "url": "https://wallstreetcn.com/livenews/3134051",
-          "source": "华尔街见闻-快讯",
+          "title": "江西加码推进“省会引领”战略：以实体经济作支撑，发出强省会新信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33589347",
+          "source": "澎湃新闻",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时50分"
+          "time_info": "01时49分"
         },
         {
-          "title": "天际股份：因2023年年报虚假记载公司及多名时任高管被罚，股票被“ST”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33579832",
-          "source": "澎湃新闻",
+          "title": "比亚迪高管：没美国市场销量也超丰田",
+          "url": "https://www.toutiao.com/trending/7662542579950977060/",
+          "source": "今日头条",
           "ranks": [
-            20
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时42分"
+          "time_info": "01时49分"
         }
       ]
     },
     {
       "keyword_group": "高层心理韧性 压力 焦虑 内耗 情绪稳定 孤独感 决策压力 责任 权力 边界感 精力管理 心理韧性 职业倦怠 长期主义 教练式领导 咨询赋能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
-          "title": "法国不敌西班牙无缘世界杯决赛，他们输在哪？豪华锋线为什么会哑火？教练德尚该承担主要责任吗？",
-          "url": "https://www.zhihu.com/question/2060634535255963378",
-          "source": "知乎",
+          "title": "美国6月PPI超预期降温 油价“救场”难掩上游涨价压力",
+          "url": "https://www.cls.cn/detail/2427667",
+          "source": "财联社热门",
           "ranks": [
-            4
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时50分"
+          "time_info": "01时49分"
         },
         {
-          "title": "张小斐热巴回应演功夫女足压力",
-          "url": "https://www.douyin.com/hot/2571525",
+          "title": "创一代不内耗,分手提车又捐钱",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356187&amp;topic_name=%E5%88%9B%E4%B8%80%E4%BB%A3%E4%B8%8D%E5%86%85%E8%80%97%2C%E5%88%86%E6%89%8B%E6%8F%90%E8%BD%A6%E5%8F%88%E6%8D%90%E9%92%B1",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "姆巴佩称作为队长承担全部责任",
+          "url": "https://www.douyin.com/hot/2571777",
           "source": "抖音",
           "ranks": [
-            19
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时50分"
+          "time_info": "01时49分"
         },
         {
-          "title": "姆巴佩：我担全部责任",
-          "url": "https://www.toutiao.com/trending/7662174440880865343/",
-          "source": "今日头条",
+          "title": "美联储主席沃什：我对改革银行压力测试持开放态度。",
+          "url": "https://wallstreetcn.com/livenews/3134519",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时50分"
+          "time_info": "01时49分"
         }
       ]
     }
