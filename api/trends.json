@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-22T01:55:04.082749+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-22T12:02:38.453998+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI时代管理变革 AI 人工智能 大模型 智能体 Agent 数字化转型 自动化 降本增效 组织效率 流程重构 人机协作 AI替代 AI办公 岗位重塑",
-      "match_count": 14,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2433005",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 12时02分]"
+        },
         {
           "title": "英媒爆料：中美正计划9月举行AI会谈",
           "url": "https://news.ifeng.com/c/8uwidXo8t4N",
@@ -30,15 +42,48 @@
           "time_info": "[01时54分 ~ 01时55分]"
         },
         {
-          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2433005",
+          "title": "“看到AI脸产生生理性厌恶”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%9C%8B%E5%88%B0AI%E8%84%B8%E4%BA%A7%E7%94%9F%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "情侣用 AI 判断菌子毒性采了 10 余斤，被本地小孩哥筛选只剩 2 斤，AI 和小孩哥谁的判断更准？为啥会有不同？",
+          "url": "https://www.zhihu.com/question/2062587249968129781",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
+          "url": "https://www.cls.cn/detail/2433303",
           "source": "财联社热门",
           "ranks": [
             5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 01时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
+          "url": "https://www.zhihu.com/question/2062943431668789795",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "OpenAI产品负责人Tibo表示，Codex和 ChatGPT Work每周活跃用户已突破1000万人。",
@@ -47,9 +92,33 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
+          "url": "https://www.zhihu.com/question/2061915732447687216",
+          "source": "知乎",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 12时02分]"
+        },
+        {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 12时02分]"
         },
         {
           "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
@@ -74,26 +143,48 @@
           "time_info": "[01时54分 ~ 01时55分]"
         },
         {
-          "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
-          "url": "https://www.zhihu.com/question/2061915732447687216",
+          "title": "AI“斯普特尼克时刻”！Kimi K3震动硅谷，Stability AI联合创始人：推理成本还有10至50倍下降空间",
+          "url": "https://wallstreetcn.com/articles/3777546",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "索尼与三菱电机成立AI视觉合资公司 布局智能工厂",
+          "url": "https://flash.jin10.com/detail/20260722113206256800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "英伟达发布Vera CPU新细节 AI服务器市场再开新战场",
+          "url": "https://www.cls.cn/detail/2433181",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "如何看待申真谞二比一战胜围棋人工智能「KataGo」？",
+          "url": "https://www.zhihu.com/question/2062927366180157304",
           "source": "知乎",
           "ranks": [
             13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 01时55分]"
-        },
-        {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 01时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "OpenAI：宣布推出面向小型企业的ChatGPT服务计划。ChatGPT Work和GPT-5.6今日起面向小型企业开放。",
@@ -102,7 +193,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         },
@@ -113,7 +204,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         },
@@ -124,9 +215,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "小红书大模型IMO满分夺金",
+          "url": "https://www.toutiao.com/trending/7664955889170825259/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "英伟达发布Spectrum-6以太网交换系统，面向下一代超大规模AI工厂",
@@ -135,7 +237,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         },
@@ -146,9 +248,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "人工智能专业“杀疯了” 分数普涨",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E4%B8%9A%E2%80%9C%E6%9D%80%E7%96%AF%E4%BA%86%E2%80%9D+%E5%88%86%E6%95%B0%E6%99%AE%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "OpenAI的CEO Altman将向美国官员们介绍下一波AI模型。",
@@ -157,7 +270,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         }
@@ -165,8 +278,19 @@
     },
     {
       "keyword_group": "领导力升级 领导力 领导者 高管 高层 管理层 决策 战略 战略思维 影响力 组织信任 组织能力 组织变革 人才梯队 识人用人 带团队",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "乌克兰高层爆发严重内斗",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%8C%E5%85%8B%E5%85%B0%E9%AB%98%E5%B1%82%E7%88%86%E5%8F%91%E4%B8%A5%E9%87%8D%E5%86%85%E6%96%97",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
         {
           "title": "董事长带头，华工科技高管组团增持！两高管跌停价“抄底”买入近5万股",
           "url": "https://www.cls.cn/detail/2432986",
@@ -192,25 +316,8 @@
       ]
     },
     {
-      "keyword_group": "中年职业第二曲线 35岁 40岁 45岁 中年危机 职业天花板 职业瓶颈 转型 职业转型 第二曲线 顾问 咨询 专家型 管理岗 专家岗 裁员 再就业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国高级顾问布洛斯：会议进行得非常顺利。",
-          "url": "https://flash.jin10.com/detail/20260722010839803800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "高层心理韧性 压力 焦虑 内耗 情绪稳定 孤独感 决策压力 责任 权力 边界感 精力管理 心理韧性 职业倦怠 长期主义 教练式领导 咨询赋能",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -222,6 +329,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 01时55分]"
+        },
+        {
+          "title": "X产品负责人Nikita Bier：作为X的产品负责人，我对所有适用法律进行了详尽审查，得出的结论是我没有权力关闭Linkedin。",
+          "url": "https://flash.jin10.com/detail/20260722112419928800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "日本进口激增扩大了贸易逆差 日本央行压力加剧",
+          "url": "https://flash.jin10.com/detail/20260722112057967800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中年职业第二曲线 35岁 40岁 45岁 中年危机 职业天花板 职业瓶颈 转型 职业转型 第二曲线 顾问 咨询 专家型 管理岗 专家岗 裁员 再就业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国高级顾问布洛斯：会议进行得非常顺利。",
+          "url": "https://flash.jin10.com/detail/20260722010839803800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时55分"
         }
       ]
     }
